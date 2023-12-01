@@ -1,6 +1,8 @@
-# Awesome Open-Source AI Devtools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Open-Source AI Devtools
 
-> A list of open source AI devtools
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A list of open source AI devtools
 
 
 ## Contents
