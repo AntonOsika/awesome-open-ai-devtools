@@ -1,4 +1,4 @@
-# Awesome Open-Source AI Devtools
+# Awesome Open AI Devtools
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
