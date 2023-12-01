@@ -5,7 +5,7 @@
 A list of open source AI devtools
 
 
-## Contents
+## Tools
 
 - [smol developer](https://github.com/smol-ai/developer)
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
