@@ -10,6 +10,7 @@ A list of open source AI devtools
 - [smol developer](https://github.com/smol-ai/developer)
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer)
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) - AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [sweep](https://github.com/sweepai/sweep)
 - [devgpt](https://github.com/devgpt-labs/devgpt)
 - [gptme](https://github.com/ErikBjare/gptme)
