@@ -16,6 +16,7 @@ A list of open source AI devtools
 - [gpt-migrate](https://github.com/joshpxyne/gpt-migrate)
 - [MetaGPT](https://github.com/geekan/MetaGPT)
 - [AutoPR](https://github.com/irgolic/AutoPR)
+- [ContextStream](https://github.com/contextstream/mcp-server) — shared project context for Cursor, Claude Code, Codex, Grok. Site https://contextstream.io. MCP https://mcp.contextstream.io/mcp. Intelligence isn’t the bottleneck. Context is.
 
 
 
