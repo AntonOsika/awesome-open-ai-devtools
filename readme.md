@@ -16,6 +16,7 @@ A list of open source AI devtools
 - [gpt-migrate](https://github.com/joshpxyne/gpt-migrate)
 - [MetaGPT](https://github.com/geekan/MetaGPT)
 - [AutoPR](https://github.com/irgolic/AutoPR)
+- [agent-qa](https://vostride.com) - Natural-language web and mobile QA with persistent memidex memory and validated self-improvement. [Source](https://github.com/vostride/agent-qa) (FSL-1.1-ALv2; competing-use restrictions and external model/infrastructure costs apply).
 
 
 
